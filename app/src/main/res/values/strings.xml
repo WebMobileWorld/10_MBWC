@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">10MBWC</string>
+
+    <string name="twitter_callback">http://javatechig.android.app</string>
+    <string name="twitter_consumer_key">bidcE20mq833gyNvhPUE9Wkxp</string>
+    <string name="twitter_consumer_secret">eZZf01Io9jObpx66eRpS9F8B9rMhzv7M8n9dQ7qj9PTl9Cy4Cl</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+    <string name="hello">Hello, </string>
+    <string name="share_instructions">Enter share message</string>
+    <string name="btn_share">Share</string>
+    <string name="no_alarms">No alarms have been set</string>
+    <string name="menu_item_new">New</string>
+    <string name="menu_item_save">Save</string>
+    <string name="menu_item_delete">Cancel</string>
+    <string name="menu_item_rate">Rate on Google Play</string>
+    <string name="menu_item_website">Website</string>
+    <string name="menu_item_report">Report a Bug</string>
+    <!--purchase-->
+    <string name="subscription_period_monthly">Monthly</string>
+    <string name="subscription_period_yearly">Yearly</string>
+    <string name="subscription_prompt_continue">Continue</string>
+    <string name="subscription_prompt_cancel">Cancel</string>
+    <string name="content_description_app_loading_image">App loading image</string>
+    <string name="content_description_title_image">80\'s Video Game Style Car Logo</string>
+    <string name="content_desc_gas_gauge_indicator">Gas gauge indicator</string>
+    <string name="content_desc_free_vs_premium_indicator">Free or Premium Image Indicator</string>
+    <string name="subscription_period_prompt">Select your subscription period</string>
+    <string name="subscription_resignup_prompt">To reactivate your subscription, select your subscription period</string>
+    <string name="subscription_update_prompt">To change your subscription, select your new subscription period</string>
+
+    <string name="intro_text">The 10 Minute Burning Workout Challenge App is the fast, simple, science-based way to work out at home or outside and anytime!\nThe App comes with 12 workouts that are put together by researchers.\nThis workout involves high intensity interval training, which alternate between 60-seocond of maxed-out exercise and brief, 30-second periods of rest.\n Top athletes have been doing this work for decades to improve their performance.\n This App will help you to achieve your fitness goals, and you will burn a lot of fat, increase energy and vitality! \n We have also other challenging workouts for you to get you in top shape! \n We will also send you push notifications to motivate you to do workouts and challenge yourself! \n You can find more about us on our web page! \n
+                    www.10minburningworkout.com</string>
+    <string name="login_instructions">Login to twiter</string>
+    <string name="btn_login">Login to Twitter</string>
+    <string name="facebook_share_data">Hi, are you looking for a challenge and to achieve your FITNESS GOALS and LOOSE WEIGHT? Download this app to achieve your goals "10 minute burning workout challenge"; \n www.10minburningworkout.com</string>
+    <string name="share_data">Are you looking for a fitness challenge and loosing weight? Download the App 10 minute burning workout challenge, www.10minburningworkout.com</string>
+    <string name="remind_text">NEVER FORGET YOUR WORKOUTS!</string>
+    <string name="alarm_text">Do you regularly forget to exercise?</string>
+    <string name="close_text">Are you sure you want to quit the workout?</string>
+    <string name="purchase_text">Do you want to buy this workout?</string>
+    <string name="allow_text">"Workout" Would Like to Send You Notifications \n Notifications may include alerts, sounds and icon bades. These can be configured in Settings.</string>
+    <!-- Alert -->
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="decimal_button_text">,</string>
+    <string name="clear_button_text">Clear</string>
+    <string name="minus_button_text">-</string>
+
+
+    <color name="title_background_color">#000000</color>
+    <string name="button_delete">Delete</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="facebook_app_id">357571727967795</string>
+    <!--standard-->
+    <string name="text_data">Try other exercises to get your body in shape! \n To continue to challenge your body and improve your strength and conditioning, you need to switch up your day-to-day workouts, and try something new! </string>
+    <string name="text_content">The exercise should be preformed with high-intensity in which you give all-out, one hundred percent effort trough quick, intense bursts of exercise, followed by short, sometimes active, recovery periods. This type of training gets and keeps your heart rate up and burns more fat in less time. Need more information? See our web page; \n www.10minburningworkout.com</string>
+</resources>

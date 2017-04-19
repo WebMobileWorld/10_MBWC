@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="TextColor">#3A3D3F</color>
+    <color name="brightBlue">#00A000</color>
+    <color name="colorOrange">#E88706</color>
+    <color name="colorPrimaryOrange">#F7B281</color>
+    <color name="colorCountOrange">#E88706</color>
+    <color name="Black">#000000</color>
+    <color name="Grey">#B8B8B8</color>
+    <color name="colorMenu">#F6F6F6</color>
+    <color name="background">#55000000</color>
+    <color name="workout">#2A3C53</color>
+    <color name="close">#606264</color>
+    <color name="colorHint">#C1C0C8</color>
+</resources>

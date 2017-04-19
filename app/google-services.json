@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "516114495797",
+    "firebase_url": "https://mbwcandroid.firebaseio.com",
+    "project_id": "mbwcandroid",
+    "storage_bucket": "mbwcandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516114495797:android:0aa069657e333139",
+        "android_client_info": {
+          "package_name": "com.mbwc.e.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516114495797-v4uus18koaj4psbf957drrglo7pqfqd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkmh1avuYGYRKJoIo-1pDVMe4RJeV6cQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="intro_back">16dp</dimen>
+    <dimen name="intro_back_240">14dp</dimen>
+    <dimen name="intro_back_320">15dp</dimen>
+    <dimen name="intro_back_480">16dp</dimen>
+    <dimen name="intro_back1">5dip</dimen>
+    <dimen name="intro_text">12dp</dimen>
+    <dimen name="intro_text_480">20dp</dimen>
+    <dimen name="intro_text_240">30dip</dimen>
+</resources>
